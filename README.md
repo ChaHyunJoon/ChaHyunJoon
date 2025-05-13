@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChaHyunJoon
-- 👀 I’m interested in ML/BioInformatics
+- 👀 I’m interested in ML
 - 🌱 I’m currently learning ML basic projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
